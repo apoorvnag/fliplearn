@@ -2,6 +2,7 @@
 
 $cities = ['paris', 'patna', 'ajmer', 'almora', 'nainital'];
 
+// Using array to create a dictionary as it can hold key value pairs
 $dict = [];
 
 foreach ($cities as $key => $city){
